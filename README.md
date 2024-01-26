@@ -19,6 +19,9 @@ this web will make an improvement to be powerfull web starter along with my expl
 ## Screenshots
 
 <img src="/public/assets/img/ss-1.png">
+<img src="/public/assets/img/ss-2.png">
+<img src="/public/assets/img/ss-3.png">
+<img src="/public/assets/img/ss-4.png">
 
 
 ## Contributing
